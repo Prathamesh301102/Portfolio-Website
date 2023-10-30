@@ -133,6 +133,9 @@
     padding: 1rem;
     row-gap: 1rem;
   }
+
+  .contact-info-container{
+    row-gap: 1rem;
 }
 
 @media screen and (max-width: 450px) {
