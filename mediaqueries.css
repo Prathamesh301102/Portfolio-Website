@@ -126,4 +126,10 @@
   footer {
     margin-top: 15rem;
   }
+  .cta-form {
+  display: grid;
+  grid-template-columns: 1fr;
+  padding: 1rem;
+  row-gap: 0.6em;
+}
 }
